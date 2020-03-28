@@ -1,0 +1,7 @@
+{
+  "name": "sidebar-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
